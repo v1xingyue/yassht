@@ -1,4 +1,6 @@
-# yassht[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+# yassht
+
+[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 Yet Another Set Of SSH Tools 
 ---
