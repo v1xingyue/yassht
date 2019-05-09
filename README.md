@@ -14,9 +14,13 @@ sshloginshell 完成用户登录到通道机部分的shell 拦截完成 ，结�
 
 ## 特点:
 
-## 使用场景:
+* 应用服务器授权通过公私钥完成，省去用户名密码泄露的危险
+* 通道机，应用服务器本身不存 公私钥，免去公私钥泄露的危险
+* sshadmin 完成应用服务器公私钥的灵活管理，比如,授权时间等相关操作
+* otp 算法完成通用的双因子认证
 
-## 编译安装，部署
+## 编译安装:
+
 
 ## 相关链接:
 * [https://godoc.org/golang.org/x/crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) 
