@@ -1,0 +1,6 @@
+all:
+
+depend:init
+	./init
+
+
